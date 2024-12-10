@@ -19,3 +19,4 @@ Bu proje, kullanıcıların iş başvurularını verimli bir şekilde takip edeb
 
 # Ekran Gif
 
+![Video Screen1733862250313](https://github.com/user-attachments/assets/79d63e61-ff77-48d6-8f3a-255c15e5bc37)
